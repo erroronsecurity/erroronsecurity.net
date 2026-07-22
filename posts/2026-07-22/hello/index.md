@@ -11,7 +11,3 @@ A hacker, trans.
 ## Philosophy
 * Do not limit yourself in service of specialization. Learn what you want because you want to.
 * The concept of breaking and building has no place in hacking. You're not breaking something if you hack it. You want it to work exactly as implemented. You wouldn't be able to exploit it otherwise.
-
-
-# what is this?
-This is a space to post thoughts, ramblings, exploits, experiences, resources, etc. A place to share, a place to find.
