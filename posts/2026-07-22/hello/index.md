@@ -1,14 +1,3 @@
-<style>
-    body {
-        background-color: black;
-    }
-
-    p {
-        color: white;
-    }
-</style>
-
-
 # whoami
 A hacker, trans.
 
