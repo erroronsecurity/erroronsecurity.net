@@ -3,4 +3,4 @@
 
 
 # Resource Lists
-* [Books](/books/)
+* [Books](/resources/books/)
