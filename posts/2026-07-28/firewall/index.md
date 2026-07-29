@@ -44,7 +44,7 @@ DNS=8.8.8.8
 DNS=8.8.4.4
 LLMNR=no
 ```
-Then restart systemd-resolved with `systemctl restart systmed-resolved`.
+Then restart systemd-resolved with `systemctl restart systemd-resolved`.
 
 
 
