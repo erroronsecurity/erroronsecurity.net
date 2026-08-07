@@ -30,6 +30,7 @@ Of course, these attempts generated both a detection and a response (in the form
 
 ## Logging in
 Once you log in, you're presented with a dashboard:
+
 ![image of CrowdStrike dashboard](images/dashboard.png)
 
 Here, you can see I have 1 of 4 sensors used and 7 detections but otherwise CS considers my hosts 'Protected'.
@@ -37,34 +38,41 @@ Here, you can see I have 1 of 4 sensors used and 7 detections but otherwise CS c
 
 ## Menu
 Clicking on the menu, you see all kinds of options, many of which I don't have available or am not interested in.
+
 ![image of CrowdStrike menu](images/menu_list.png)
 
 
 ## Asset Inventory
 Since CrowdStrike is designed to be run on most, if not all, of your hosts, it builds a nice asset inventory for you.
 Maybe compare it to your own asset inventory and find anything missing?
+
 ![image of CrowdStrike asset inventory](images/asset_inventory.png)
 
 
 ## Detections
 Alright, so back to it, earlier, you saw I had 7 detections, so let's look at them in endpoint security.
+
 ![image of CrowdStrike endpoint security](images/host_detections.png)
 
 We can also look at all detections.
+
 ![image of CrowdStrike detections dashboard](images/all_detections.png)
 
 And we can even see that nothing's been quarantined (different dashboard)
+
 ![image of CrowdStrike quarantine](images/protection.png)
 
 
 ## Investigating
 Then we can drill down into an individual detection directly from the all detections page.
+
 ![image of CrowdStrike in-place detection dropdown](images/command_injection.png)
 
 We can see the full process tree, showing parent/child relationships between processes that lead to the detection being triggered.
 We can see the user running the process, the image file path for it, the hash of it, the command line, all kinds of useful info.
 
 If we click on "See full detection" in the bottom right corner, we're taken to a page showing a lot of the same information but in a cleaner and more interactive way.
+
 ![image of CrowdStrike full detection page](images/process_tree.png)
 
 
