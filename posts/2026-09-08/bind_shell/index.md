@@ -1,7 +1,7 @@
 # Bind Shell
 
 Okay, so I wrote a small bind shell over the weekend. It's not perfect, but it's good to illustrate a few things.
-It can be found at [bind_shell.c](https://github.com/erroronsecurity/misc/bind_shell.c).
+It can be found at [bind_shell.c](https://github.com/erroronsecurity/misc/blob/main/bind_shell.c).
 
 Obviously, we start with importing a few libraries:
 ```
@@ -18,12 +18,12 @@ The first set handles calls like sizeof, printf, popen, and memset.
 The second set is our networking libraries. They provide syscalls and helpers.
 
 So let's talk about syscalls. Setting up a server to listen to the network usually entails a few of them, in a specific order:
-* socket()
-* bind()
-* listen()
-* accept()
-* recv()
-* send()
+* `socket()`
+* `bind()`
+* `listen()`
+* `accept()`
+* `recv()`
+* `send()`
 
 We'll walk through them as we build our program.
 
@@ -33,7 +33,7 @@ int listen_socket_fd = socket(AF_INET, SOCK_STREAM, 0);
 ...
 ```
 
-Calling socket(), it takes 3 arguments, all integer types:
+Calling `socket()`, it takes 3 arguments, all integer types:
 * domain
 * type
 * protocol
