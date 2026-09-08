@@ -7,3 +7,4 @@
 
 # Resource Lists
 * [Books](/resources/books/)
+* [Posts](/resources/posts/)
