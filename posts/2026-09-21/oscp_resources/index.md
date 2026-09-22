@@ -33,8 +33,8 @@ Advice:
 * write your own exploits. 100% reference other people’s code, but write it yourself so you understand it.
 
 SQL Injection cheat sheets:
-<https://portswigger.net/web-security/sql-injection/cheat-sheet>
-<https://www.invicti.com/blog/web-security/sql-injection-cheat-sheet/>
+* <https://portswigger.net/web-security/sql-injection/cheat-sheet>
+* <https://www.invicti.com/blog/web-security/sql-injection-cheat-sheet/>
 
 Hack The Box Active Directory Practice Machines:
 
@@ -58,5 +58,5 @@ reg query "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\winlogon"
 ```
 
 Kernel exploits:
-<https://github.com/SecWiki/windows-kernel-exploits>
-<https://github.com/SecWiki/linux-kernel-exploits>
+* <https://github.com/SecWiki/windows-kernel-exploits>
+* <https://github.com/SecWiki/linux-kernel-exploits>
