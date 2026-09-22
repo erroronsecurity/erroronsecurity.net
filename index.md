@@ -7,7 +7,7 @@
 6. [2026-09-19 Firewall 2](/posts/2026-09-19/firewall_2)
 7. [2026-09-21 OSCP Resources](/posts/2026-09-21/oscp_resources)
 8. [2026-09-21 Linux Capabilities](/posts/2026-09-21/linux_capabilities)
-9. [2026-09-21 Zipfile Crackign to Textpattern Unrestricted File Upload to DirtyCOW](/pots/2026-09-21/zipfile_cracking_to_textpattern_unrestricted_file_upload_to_dirtycow)
+9. [2026-09-21 Zipfile Cracking to Textpattern Unrestricted File Upload to DirtyCOW](/posts/2026-09-21/zipfile_cracking_to_textpattern_unrestricted_file_upload_to_dirtycow)
 
 
 # Resource Lists

