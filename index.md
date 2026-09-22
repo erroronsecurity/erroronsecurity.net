@@ -8,7 +8,7 @@
 7. [2026-09-21 OSCP Resources](/posts/2026-09-21/oscp_resources)
 8. [2026-09-21 Linux Capabilities](/posts/2026-09-21/linux_capabilities)
 9. [2026-09-21 Zipfile Cracking to Textpattern Unrestricted File Upload to DirtyCOW](/posts/2026-09-21/zipfile_cracking_to_textpattern_unrestricted_file_upload_to_dirtycow)
-10. [2026-09-21 Unrestricted File Upload to Bad File Permissions to Sudo Misconfigs](/pots/2026-09-21/unrestricted_file_upload_to_bad_file_permissions_to_sudo_misconfigs)
+10. [2026-09-21 Unrestricted File Upload to Bad File Permissions to Sudo Misconfigs](/posts/2026-09-21/unrestricted_file_upload_to_bad_file_permissions_to_sudo_misconfigs)
 
 
 # Resource Lists
