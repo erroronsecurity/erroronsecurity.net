@@ -6,6 +6,7 @@
 5. [2026-09-08 Bind Shell](/posts/2026-09-08/bind_shell)
 6. [2026-09-19 Firewall 2](/posts/2026-09-19/firewall_2)
 7. [2026-09-21 OSCP Resources](/posts/2026-09-21/oscp_resources)
+8. [2026-09-21 Linux Capabilities](/posts/2026-09-21/linux_capabilities)
 
 
 # Resource Lists
